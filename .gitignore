@@ -1,0 +1,10 @@
+Debug/*
+!Debug/*.dll
+ipch/
+*.dat
+*.coda
+*.sdf
+*.suo
+*.user
+*.opensdf
+*log.txt
